@@ -1,0 +1,30 @@
+#myId{
+    background-color: bisque;
+    color:blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+p{
+    text-align: right;
+    color:rgb(255, 0, 255);
+}
+
+div p{
+    text-align: left;
+    color:crimson;
+}
+div > p{
+    text-align: center;
+    color:hotpink;
+}
+*{
+    color:black;
+}
+
+#emphasizeStyle,#divStyle{
+    background-color: coral;
+}
+input[type=submit]{
+    width:50%;
+    background-color: rgb(154, 233, 122);
+}

@@ -1,0 +1,20 @@
+.mainForm{
+    background-color:aqua;
+    text-align: center;
+}
+.formLabel{
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.formInputText{
+    border: 2px solid yellowgreen;
+    padding : 10px;
+}
+.container{
+    border: 5px dotted darkcyan;
+}
+.submitForm{
+    width:100%;
+    padding:20px;
+    border:3px solid violet;
+}
